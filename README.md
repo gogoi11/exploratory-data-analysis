@@ -1,6 +1,3 @@
-@@ -1,4 +1,114 @@
-ExData_Plotting1
-================
 ## Introduction
 
 This assignment uses data from
